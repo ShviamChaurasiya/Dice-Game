@@ -1,0 +1,43 @@
+body {
+  height: 98vh;
+  background-color: #a7e6ff;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+h1 {
+  font-size: 100px;
+  color: #006989;
+  text-shadow: 2px 2px #050C9C;
+}
+h2 {
+  font-size: 30px;
+  color: #006989;
+}
+p {
+  color: black;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.player1 {
+  margin: 40px;
+}
+.player2 {
+  margin: 40px;
+}
+h2 {
+  margin: 20px;
+}
+.creator {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  position: sticky;
+  bottom: 0;
+  align-self: flex-end;
+  padding: 0px;
+  margin: 0px;
+}
